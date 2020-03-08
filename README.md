@@ -1,8 +1,8 @@
 # Claw-Game
 
-Arduino MEGA 
-CNC Shield
-DRV8825
-NEMA17
-Joystick
-Buttons
+Arduino MEGA<br />
+CNC Shield<br />
+DRV8825<br />
+NEMA17<br />
+Joystick<br />
+Buttons<br />
